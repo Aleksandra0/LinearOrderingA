@@ -1,0 +1,3 @@
+export("is_numeric_values", "linearOrdering", "linearOrdering.default",
+       "plot.linearOrdering", "print.linearOrdering",
+       "standarize_data_frame")
