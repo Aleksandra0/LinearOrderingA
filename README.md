@@ -1,4 +1,4 @@
-Package: LinearOrderingA
+# Package: LinearOrderingA
 
 Type: Package
 
